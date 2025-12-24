@@ -17,7 +17,7 @@
 - For example, if a Video model represents a table, then each video stored in the database is an object of that model.
 
 ### 4. What is an event in DOM?
-- n the DOM (Document Object Model), an event is an action or occurrence that happens in the browser and can be detected by JavaScript.
+- In the DOM (Document Object Model), an event is an action or occurrence that happens in the browser and can be detected by JavaScript.
 - Events are usually triggered by user interactions such as clicking a button, typing in an input field, submitting a form, moving the mouse, or loading a webpage.
 - When an event occurs, the browser creates an event object and notifies the JavaScript code, allowing developers to respond by executing specific functions, such as updating the page content, validating user input, or triggering animations.
 
